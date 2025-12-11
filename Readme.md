@@ -8,3 +8,4 @@ In this mystery adventure game, players gradually uncover the truth of the world
 #game cg
 ![running app](https://github.com/Yangshengbin2007/Jerry-advprogramming2026-Individual-project-Repo/blob/main/image/Chapter%20one/gamecg1.jpg)
 ![running app](https://github.com/Yangshengbin2007/Jerry-advprogramming2026-Individual-project-Repo/blob/main/image/Chapter%20Two/seeashark.jpg)
+![running app](https://github.com/Yangshengbin2007/Jerry-advprogramming2026-Individual-project-Repo/blob/main/image/Chapter%20Three/goodendcg.jpg)
